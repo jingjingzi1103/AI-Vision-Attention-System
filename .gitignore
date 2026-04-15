@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node.js
+node_modules/
+dist/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pth
+*.h5
+*.onnx
